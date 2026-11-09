@@ -1,0 +1,2 @@
+NOTE: Because there is no actual scene for this assignment, and the production changes are purely additive, the same github repo has been used.
+New changes: DamageReductionHealth and RegenHealth added.
